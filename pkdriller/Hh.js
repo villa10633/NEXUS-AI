@@ -20,7 +20,7 @@ const newsletterContext = {
 zokou({
   'nomCom': "repo",
   'catégorie': "Général",
-  'reaction': '💥',
+  'reaction': '🟢',
   'nomFichier': __filename
 }, async (_0x3ebb47, _0xff3268, _0x48dbdb) => {
   try {
