@@ -1,1 +1,75 @@
-function _0x3262(_0x56aa0d,_0x32fb4d){const _0x4f65c0=_0x4f65();return _0x3262=function(_0x326274,_0x431356){_0x326274=_0x326274-0xc4;let _0xf0ba25=_0x4f65c0[_0x326274];return _0xf0ba25;},_0x3262(_0x56aa0d,_0x32fb4d);}const _0x509447=_0x3262;function _0x4f65(){const _0x44430e=['\x0a>\x20@NEXUS\x20AI\x0a','PREFIXE','*\x20❂━━─••\x0a║╭━━══••══━━••⊷\x20','\x0a╭━━━❂\x20*','120363288304618280@newsletter','Menu','/../set','/../framework/zokou','moment-timezone','4692072EguSzF','sendMessage','DD/MM/YYYY','menu','7583060mKJNbt','NEXUS\x20AI\x20MENU','length','util','\x0a┃★│◎\x20Ram\x20:\x208/132\x20GB\x0a┃★│◎\x20Date\x20:\x20','2938982iVvBfx','Etc/GMT','https://files.catbox.moe/0b3p7o.jpg','toLowerCase','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a║┊◆\x20','9TRpXHA','nomCom','fromCharCode','18282728mRUIMv','4195092MuWKHT','yes','\x0a┃★│◎\x20Creator\x20:\x20PK\x20Driller\x0a┃★│◎\x20Commands\x20:\x20','setDefault','MODE','\x0a┃★│◎\x20Theme\x20:\x20NEXUS-AI\x0a┊\x20\x20\x20└────••••────⊷\x0a╰━━━••✧NEXUS-AI✧••━━━◆\x0a','categorie','https://files.catbox.moe/uhfull.mp3','1878EAjTJc','35651cMbGGz','NEXUS-AI','419753NvklNn','OWNER_NAME','\x0a┃★│◎\x20Platform\x20:\x20','public','platform','private','Menu\x20error:\x20','repeat'];_0x4f65=function(){return _0x44430e;};return _0x4f65();}(function(_0x2e3586,_0x27028b){const _0x4ea260=_0x3262,_0x5b4fd3=_0x2e3586();while(!![]){try{const _0x35d1d5=-parseInt(_0x4ea260(0xe1))/0x1+-parseInt(_0x4ea260(0xcd))/0x2+parseInt(_0x4ea260(0xc4))/0x3+-parseInt(_0x4ea260(0xd6))/0x4+-parseInt(_0x4ea260(0xc8))/0x5+parseInt(_0x4ea260(0xde))/0x6*(parseInt(_0x4ea260(0xdf))/0x7)+-parseInt(_0x4ea260(0xd5))/0x8*(-parseInt(_0x4ea260(0xd2))/0x9);if(_0x35d1d5===_0x27028b)break;else _0x5b4fd3['push'](_0x5b4fd3['shift']());}catch(_0x204c97){_0x5b4fd3['push'](_0x5b4fd3['shift']());}}}(_0x4f65,0xf16ad));const util=require(_0x509447(0xcb)),fs=require('fs-extra'),{zokou}=require(__dirname+_0x509447(0xf0)),{format}=require(__dirname+'/../framework/mesfonctions'),os=require('os'),moment=require(_0x509447(0xf1)),s=require(__dirname+_0x509447(0xef)),more=String[_0x509447(0xd4)](0x200e),readmore=more[_0x509447(0xe8)](0xfa1);zokou({'nomCom':_0x509447(0xc7),'categorie':_0x509447(0xee)},async(_0x466846,_0x35dd19,_0x42e541)=>{const _0x5453cf=_0x509447;let {ms:_0x2f945c,repondre:_0x35a713,prefixe:_0x5b6b66,nomAuteurMessage:_0x4099cb,mybotpic:_0x11905}=_0x42e541,{cm:_0x3f91bc}=require(__dirname+_0x5453cf(0xf0)),_0x4b68cd={},_0x2fb207=_0x5453cf(0xe4);s[_0x5453cf(0xda)][_0x5453cf(0xd0)]()!==_0x5453cf(0xd7)&&(_0x2fb207=_0x5453cf(0xe6));_0x3f91bc['map'](_0x5a12df=>{const _0x34a4d0=_0x5453cf;!_0x4b68cd[_0x5a12df[_0x34a4d0(0xdc)]]&&(_0x4b68cd[_0x5a12df[_0x34a4d0(0xdc)]]=[]),_0x4b68cd[_0x5a12df[_0x34a4d0(0xdc)]]['push'](_0x5a12df[_0x34a4d0(0xd3)]);}),moment['tz'][_0x5453cf(0xd9)](_0x5453cf(0xce));const _0x336f17=moment()['format']('HH:mm:ss'),_0x30b447=moment()['format'](_0x5453cf(0xc6));let _0x5810f6='\x0a╭━━✧★☞\x20\x20η𝕖ⓧùⓢ-𝐀𝓘\x20\x20😾💜✧━━❖\x0a┊✺┌────••••────⊷\x0a┃★│◎\x20Owner\x20:\x20'+s[_0x5453cf(0xe2)]+'\x0a┃★│◎\x20Prefix\x20:\x20[\x20'+s[_0x5453cf(0xea)]+'\x20]\x0a┃★│◎\x20Mode\x20:\x20'+_0x2fb207+_0x5453cf(0xcc)+_0x30b447+_0x5453cf(0xe3)+os[_0x5453cf(0xe5)]()+_0x5453cf(0xd8)+_0x3f91bc[_0x5453cf(0xca)]+_0x5453cf(0xdb),_0x499730=_0x5453cf(0xc9);for(const _0x297db1 in _0x4b68cd){_0x499730+=_0x5453cf(0xec)+_0x297db1+_0x5453cf(0xeb);for(const _0x38505c of _0x4b68cd[_0x297db1]){_0x499730+=_0x5453cf(0xd1)+s[_0x5453cf(0xea)]+'\x20\x20*'+_0x38505c+'*';}_0x499730+='\x0a║╰━━══••══━━••⊷\x0a╰════────════◆◆◆';}_0x499730+=_0x5453cf(0xe9);try{await _0x35dd19['sendMessage'](_0x466846,{'text':_0x5810f6+_0x499730,'contextInfo':{'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x5453cf(0xed),'newsletterName':_0x5453cf(0xe0),'serverMessageId':0x8f},'externalAdReply':{'title':'NEXUS\x20AI','body':'Tap\x20to\x20join\x20the\x20official\x20channel','thumbnailUrl':_0x5453cf(0xcf),'mediaType':0x1,'renderLargerThumbnail':!![]}}}),await _0x35dd19[_0x5453cf(0xc5)](_0x466846,{'audio':{'url':_0x5453cf(0xdd)},'mimetype':'audio/mp4','ptt':![]});}catch(_0x2fdc61){console['error']('Menu\x20error:\x20',_0x2fdc61),_0x35a713(_0x5453cf(0xe7)+_0x2fdc61);}});
+const {
+  zokou
+} = require(__dirname + "/../framework/zokou");
+const os = require('os');
+const moment = require("moment-timezone");
+const s = require(__dirname + "/../set");
+zokou({
+  'nomCom': "menu",
+  'categorie': "Menu"
+}, async (_0x466846, _0x35dd19, _0x42e541) => {
+  let {
+    ms: _0x2f945c,
+    repondre: _0x35a713,
+    prefixe: _0x5b6b66,
+    nomAuteurMessage: _0x4099cb,
+    mybotpic: _0x11905
+  } = _0x42e541;
+  let {
+    cm: _0x3f91bc
+  } = require(__dirname + "/../framework/zokou");
+  let _0x4b68cd = {};
+  let _0x2fb207 = "public";
+  if (s.MODE.toLowerCase() !== "yes") {
+    _0x2fb207 = "private";
+  }
+  _0x3f91bc.map(_0x5a12df => {
+    if (!_0x4b68cd[_0x5a12df.categorie]) {
+      _0x4b68cd[_0x5a12df.categorie] = [];
+    }
+    _0x4b68cd[_0x5a12df.categorie].push(_0x5a12df.nomCom);
+  });
+  moment.tz.setDefault("Etc/GMT");
+  const _0x30b447 = moment().format("DD/MM/YYYY");
+  let _0x5810f6 = "\n╭━━✧★☞  𝐍𝐄𝐗𝐔𝐒-𝐀𝐈  😾💜✧━━❖\n┊✺┌────••••────⊷\n┃★│◎ Owner : " + s.OWNER_NAME + "\n┃★│◎ Prefix : [ " + s.PREFIXE + " ]\n┃★│◎ Mode : " + _0x2fb207 + "\n┃★│◎ Ram : 8/132 GB\n┃★│◎ Date : " + _0x30b447 + "\n┃★│◎ Platform : " + os.platform() + "\n┃★│◎ Creator : PK Driller\n┃★│◎ Commands : " + _0x3f91bc.length + "\n┃★│◎ Theme : NEXUS-AI\n┊   └────••••────⊷\n╰━━━••✧NEXUS-AI✧••━━━◆\n";
+  let _0x499730 = "𝐍𝐄𝐗𝐔𝐒 𝐀𝐈 𝐌𝐄𝐍𝐔";
+  for (const _0x297db1 in _0x4b68cd) {
+    _0x499730 += "\n╭━━━❂ *" + _0x297db1 + "* ❂━━─••\n║╭━━══••══━━••⊷ ";
+    for (const _0x38505c of _0x4b68cd[_0x297db1]) {
+      _0x499730 += "          \n║┊◆ " + s.PREFIXE + "  *" + _0x38505c + '*';
+    }
+    _0x499730 += "\n║╰━━══••══━━••⊷\n╰════────════◆◆◆";
+  }
+  _0x499730 += "\n> @NEXUS AI\n";
+  try {
+    await _0x35dd19.sendMessage(_0x466846, {
+      'text': _0x5810f6 + _0x499730,
+      'contextInfo': {
+        'forwardingScore': 0x3e7,
+        'isForwarded': true,
+        'forwardedNewsletterMessageInfo': {
+          'newsletterJid': "120363288304618280@newsletter",
+          'newsletterName': "NEXUS-AI",
+          'serverMessageId': 0x8f
+        },
+        'externalAdReply': {
+          'title': "NEXUS AI",
+          'body': "Tap to join the official channel",
+          'thumbnailUrl': "https://files.catbox.moe/q99uu1.jpg",
+          'mediaType': 0x1,
+          'renderLargerThumbnail': true
+        }
+      }
+    });
+    await _0x35dd19.sendMessage(_0x466846, {
+      'audio': {
+        'url': "https://files.catbox.moe/uhfull.mp3"
+      },
+      'mimetype': 'audio/mp4',
+      'ptt': false
+    });
+  } catch (_0x2fdc61) {
+    console.error("Menu error: ", _0x2fdc61);
+    _0x35a713("Menu error: " + _0x2fdc61);
+  }
+});
