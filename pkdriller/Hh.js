@@ -1,1 +1,59 @@
-'use strict';const _0x20a16b=_0x5a5c;(function(_0x485404,_0x552ccc){const _0xaa2cee=_0x5a5c,_0x2358be=_0x485404();while(!![]){try{const _0x2841ad=parseInt(_0xaa2cee(0xdd))/0x1+-parseInt(_0xaa2cee(0xb6))/0x2*(parseInt(_0xaa2cee(0xc3))/0x3)+parseInt(_0xaa2cee(0xc8))/0x4+parseInt(_0xaa2cee(0xcd))/0x5*(parseInt(_0xaa2cee(0xb8))/0x6)+-parseInt(_0xaa2cee(0xcc))/0x7*(parseInt(_0xaa2cee(0xba))/0x8)+-parseInt(_0xaa2cee(0xbb))/0x9*(-parseInt(_0xaa2cee(0xbc))/0xa)+parseInt(_0xaa2cee(0xc7))/0xb*(-parseInt(_0xaa2cee(0xd4))/0xc);if(_0x2841ad===_0x552ccc)break;else _0x2358be['push'](_0x2358be['shift']());}catch(_0x228501){_0x2358be['push'](_0x2358be['shift']());}}}(_0x1fad,0x5e4c9));Object[_0x20a16b(0xc1)](exports,_0x20a16b(0xd6),{'value':!![]});function _0x5a5c(_0x4ba2df,_0x4d561a){const _0x1fad99=_0x1fad();return _0x5a5c=function(_0x5a5c3f,_0x4ad2bc){_0x5a5c3f=_0x5a5c3f-0xb6;let _0x19b5f3=_0x1fad99[_0x5a5c3f];return _0x19b5f3;},_0x5a5c(_0x4ba2df,_0x4d561a);}const {zokou}=require(_0x20a16b(0xd7)),newsletterContext={'contextInfo':{'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x20a16b(0xd2),'newsletterName':_0x20a16b(0xc6),'serverMessageId':0x1}}};function _0x1fad(){const _0x2d3a9b=['stars','defineProperty','Could\x20not\x20fetch\x20data','3HKIFMf','sendMessage','https://files.catbox.moe/uhfull.mp3','𝐍𝐄𝐗𝐔𝐒-𝐀𝐈','285329ZJrJjJ','2524528EHfund','html_url','log','Général','7HZhoei','30PxcWJa','\x0a|⌚️\x20*ʀᴇʟᴇᴀsᴇ\x20ᴅᴀᴛᴇ:*\x20','audio/mp4','https://files.catbox.moe/v5xs3h.jpg','*𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*\x0a\x0a_________●\x20*𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*\x20●____________\x0a|💥\x20*ʀᴇᴘᴏsɪᴛᴏʀʏ:*\x20','120363288304618280@newsletter','\x0a|🕐\x20*ᴜᴘᴅᴀᴛᴇ\x20ᴏɴ:*\x20','240IGJlDP','forks_count','__esModule','../framework/zokou','en-GB','https://api.github.com/repos/Pkdriller/NEXUS-AI','created_at','\x0a|👨‍💻\x20*ᴏᴡɴᴇʀ:*\x20*𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*\x0a|💞\x20*ᴛʜᴇᴍᴇ:*\x20*𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*\x0a|🥰*ᴏɴʟʏ\x20ɢᴏᴅ\x20ᴄᴀɴ\x20ᴊᴜᴅɢᴇ\x20ᴍᴇ!👑*\x0a__________________________________\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20*ᴍᴀᴅᴇ\x20ᴡɪᴛʜ\x20𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*','Error\x20fetching\x20data:','25564DamRXF','forks','931120JBoqzX','stargazers_count','737028zQAcjT','toLocaleDateString','2169704YOojeq','2232702KVBPlN','10troiAo','updated_at','repo','\x0a|🍽\x20*ғᴏʀᴋs:*\x20'];_0x1fad=function(){return _0x2d3a9b;};return _0x1fad();}zokou({'nomCom':_0x20a16b(0xbe),'catégorie':_0x20a16b(0xcb),'reaction':'💥','nomFichier':__filename},async(_0x3ebb47,_0xff3268,_0x48dbdb)=>{const _0x1c6df9=_0x20a16b,_0x29938b=_0x1c6df9(0xd9),_0x2439cb=_0x1c6df9(0xd0),_0x474356=_0x1c6df9(0xc5);try{const _0x1583f8=await fetch(_0x29938b),_0x498987=await _0x1583f8['json']();if(_0x498987){const _0x491941={'stars':_0x498987[_0x1c6df9(0xb7)],'forks':_0x498987[_0x1c6df9(0xd5)],'lastUpdate':_0x498987[_0x1c6df9(0xbd)],'owner':_0x498987['owner']['login']},_0x1ffe6b=new Date(_0x498987[_0x1c6df9(0xda)])[_0x1c6df9(0xb9)](_0x1c6df9(0xd8)),_0x1e22de=new Date(_0x498987['updated_at'])['toLocaleDateString']('en-GB'),_0x4ee1b4=_0x1c6df9(0xd1)+_0x498987[_0x1c6df9(0xc9)]+'\x0a|🌟\x20*sᴛᴀʀs:*\x20'+_0x491941[_0x1c6df9(0xc0)]+_0x1c6df9(0xbf)+_0x491941[_0x1c6df9(0xde)]+_0x1c6df9(0xce)+_0x1ffe6b+_0x1c6df9(0xd3)+_0x491941['lastUpdate']+_0x1c6df9(0xdb);await _0xff3268[_0x1c6df9(0xc4)](_0x3ebb47,{'image':{'url':_0x2439cb},'caption':_0x4ee1b4,...newsletterContext}),await _0xff3268[_0x1c6df9(0xc4)](_0x3ebb47,{'audio':{'url':_0x474356},'mimetype':_0x1c6df9(0xcf),'ptt':![],...newsletterContext});}else console['log'](_0x1c6df9(0xc2));}catch(_0x475131){console[_0x1c6df9(0xca)](_0x1c6df9(0xdc),_0x475131);}});
+'use strict';
+
+Object.defineProperty(exports, "__esModule", {
+  'value': true
+});
+const {
+  zokou
+} = require("../framework/zokou");
+const newsletterContext = {
+  'contextInfo': {
+    'forwardingScore': 0x3e7,
+    'isForwarded': true,
+    'forwardedNewsletterMessageInfo': {
+      'newsletterJid': "120363288304618280@newsletter",
+      'newsletterName': "𝐍𝐄𝐗𝐔𝐒-𝐀𝐈",
+      'serverMessageId': 0x1
+    }
+  }
+};
+zokou({
+  'nomCom': "repo",
+  'catégorie': "Général",
+  'reaction': '💥',
+  'nomFichier': __filename
+}, async (_0x3ebb47, _0xff3268, _0x48dbdb) => {
+  try {
+    const _0x1583f8 = await fetch("https://api.github.com/repos/Pkdriller01/NEXUS-AI");
+    const _0x498987 = await _0x1583f8.json();
+    if (_0x498987) {
+      const _0x491941 = {
+        'stars': _0x498987.stargazers_count,
+        'forks': _0x498987.forks_count,
+        'lastUpdate': _0x498987.updated_at,
+        'owner': _0x498987.owner.login
+      };
+      const _0x1ffe6b = new Date(_0x498987.created_at).toLocaleDateString("en-GB");
+      const _0x4ee1b4 = "*𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*\n\n_________● *𝐍𝐄𝐗𝐔𝐒-𝐀𝐈* ●____________\n|💥 *ʀᴇᴘᴏsɪᴛᴏʀʏ:* " + _0x498987.html_url + "\n|🌟 *sᴛᴀʀs:* " + _0x491941.stars + "\n|🍽 *ғᴏʀᴋs:* " + _0x491941.forks + "\n|⌚️ *ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ:* " + _0x1ffe6b + "\n|🕐 *ᴜᴘᴅᴀᴛᴇ ᴏɴ:* " + _0x491941.lastUpdate + "\n|👨‍💻 *ᴏᴡɴᴇʀ:* *𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*\n|💞 *ᴛʜᴇᴍᴇ:* *𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*\n|🥰*ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!👑*\n__________________________________\n            *ᴍᴀᴅᴇ ᴡɪᴛʜ 𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*";
+      await _0xff3268.sendMessage(_0x3ebb47, {
+        'image': {
+          'url': "https://files.catbox.moe/v5xs3h.jpg"
+        },
+        'caption': _0x4ee1b4,
+        ...newsletterContext
+      });
+      await _0xff3268.sendMessage(_0x3ebb47, {
+        'audio': {
+          'url': "https://files.catbox.moe/uhfull.mp3"
+        },
+        'mimetype': "audio/mp4",
+        'ptt': false,
+        ...newsletterContext
+      });
+    } else {
+      console.log("Could not fetch data");
+    }
+  } catch (_0x475131) {
+    console.log("Error fetching data:", _0x475131);
+  }
+});
