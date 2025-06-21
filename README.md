@@ -28,7 +28,7 @@
 ### ⭐ Fork & Star the Repository
 Fork this repo and give it a ⭐ to support Pkdriller!
 
-[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/Pkdriller/NEXUS-AI/fork)
+[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/Pkdriller01/NEXUS-AI/fork)
 
 ---
 
