@@ -85,9 +85,6 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 ---
 
  
-  
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/CbY7YiuobJ1AlMJ8PviKpm)
-
 
   </a>
 </p>
