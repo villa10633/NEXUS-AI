@@ -90,7 +90,7 @@ zokou({
     // Prepare the message payload with external ad details
     const messagePayloads = [
       {
-      caption: `\n*B.M.B-TECH*\n
+      caption: `\n*NEXUS-XMD*\n
 `,
         audio: { url: downloadUrl },
         mimetype: 'audio/mp4',
@@ -107,7 +107,7 @@ zokou({
         },
       },
       {
-      caption: `\n*B.M.B-TECH*\n
+      caption: `\n*NEXUS-XMD*\n
 `,
         document: { url: downloadUrl },
         mimetype: 'audio/mpeg',
@@ -124,7 +124,7 @@ zokou({
         },
       },
       {
-      caption: `\n*B.M.B-TECH*\n
+      caption: `\n*NEXUS-XMD*\n
 `,
         document: { url: downloadUrl },
         mimetype: 'audio/mp4',
@@ -238,7 +238,7 @@ zokou({
       caption: `\n*B.M.B-TECH-MUSIC HUB*\n
 
 
-> 💙POWERED BY ®𝙱.𝙼.𝙱-𝚇𝙼𝙳 ❎`,
+> 🖕POWERED BY NEXUS-XMD ❌`,
         document: { url: downloadUrl },
         mimetype: 'video/mp4',
         contextInfo: {
