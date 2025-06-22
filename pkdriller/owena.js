@@ -194,11 +194,11 @@ zokou({
 
     // List of APIs to try
     const apis = [
-      `https://api-rin-tohsaka.vercel.app/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
-      `https://apis.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
-      `https://www.dark-yasiya-api.site/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
-      `https://api.giftedtech.web.id/api/download/dlmp4?url=${encodeURIComponent(videoUrl)}&apikey=gifted-md`,
-      `https://api.dreaded.site/api/ytdl/video?url=${encodeURIComponent(videoUrl)}`
+      `https://developer.spotify.com/documentation/web-api/https://api-rin-tohsaka.vercel.app/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
+      `/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
+      `/https://developer.apple.com/apple-music/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
+      `https://developers.deezer.com/api/download/dlmp4?url=${encodeURIComponent(videoUrl)}&apikey=gifted-md`,
+      `https://developers.soundcloud.com/docs/api/ytdl/video?url=${encodeURIComponent(videoUrl)}`
     ];
 
     let downloadData;
@@ -235,7 +235,7 @@ zokou({
         },
       },
       {
-      caption: `\n*B.M.B-TECH-MUSIC HUB*\n
+      caption: `\n*NEXUS-MUSIC HUB*\n
 
 
 > 🖕POWERED BY NEXUS-XMD ❌`,
