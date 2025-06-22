@@ -46,11 +46,6 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 ---
 [![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Pkdriller01/NEXUS-AI)
 
----
-
-#### 🔴 Koyeb
-
-[![Deploy on Koyeb](https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white)](https://github.com/XdKing2/Jinwoo-v4)
 
 ---
 
@@ -58,11 +53,7 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 
 [![Deploy on Railway](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/login)
 
----
 
-#### 🔵 Toystack
-
-[![Deploy on Toystack](https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=toystack&logoColor=white)](https://toystack.ai)
 
 ---
 
@@ -70,17 +61,7 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 
 [![Deploy on Render](https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com)
 
----
 
-#### 🟠 Replit
-
-[![Deploy on Replit](https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white)](https://repl.it/github/XdKing2/Jinwoo-v4)
-
----
-
-#### 🟢 Panel 
-
-[![Deploy on Panel](https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://bot-hosting.net/?aff=1097457675723341836)
 
 ---
 
